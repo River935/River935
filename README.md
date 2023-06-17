@@ -23,8 +23,9 @@ Here are some ideas to get you started:
 
 
 - :computer: Some of my projects:
-- <a href="https://www.linkedin.com/in/chiara-m99/" target="blank">4 in a row</a>
-
+<p align="left">
+<a href="https://github.com/River935/4-in-a-row" target="blank">Take a look!</a> Website: <a href="https://river935.github.io/4-in-a-row/" target="blank">Play!</a>
+</p>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
