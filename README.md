@@ -31,6 +31,20 @@ Here are some ideas to get you started:
 <p align="center">
 :video_game: <a href="https://github.com/River935/4-in-a-row" target="blank">Take a look!</a> and <a href="https://river935.github.io/4-in-a-row/" target="blank">Play!</a>
 </p>
+
+<p align="center">
+:moneybag: <a href="https://github.com/River935/expense-tracker" target="blank">Take a look!</a>
+</p>
+
+<p align="center">
+:dog: <a href="https://github.com/River935/backend-challenge" target="blank">Take a look!</a>
+</p>
+
+<p align="center">
+	:soccer: <a href="https://github.com/River935/matchcenter" target="blank">Take a look!</a> and <a href="https://river935.github.io/matchcenter/" target="blank">Visit!</a>
+</p>
+
+
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
