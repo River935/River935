@@ -20,7 +20,10 @@ Here are some ideas to get you started:
 <p>I am a software engineering student from Italy, deeply driven by a blend of diverse influences and motivations. My enthusiasm for this field is fueled by various sources: my intimate educational experiences in technology, my inquisitive nature, the supportive feedback and inspiration drawn from my circle of friends who are also navigating the tech world, and my innate drive to solve logic problems and innovate with fresh ideas. Even at this early stage of my career, I've had the opportunity to work in multicultural and cross-functional settings, and I am always striving to be data-oriented in my approaches. My ongoing pursuit of knowledge and a deep-seated passion for tech fuel my commitment to becoming an expert in this industry.<p>
 
 - 🔭 I’m currently looking for my second role as a Software Developer. :)
-  
+
+
+- :computer: Some of my projects:
+- <a href="[https://www.linkedin.com/in/chiara-m99/](https://river935.github.io/4-in-a-row/)" target="blank">4 in a row</a>
 
   
 <h3 align="left">Connect with me:</h3>
