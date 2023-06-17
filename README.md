@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hey! I'm Chiara 	:unicorn: </h1>
 <div id="header" align="center">
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTE2NGJkMDZiMTIzMzEzMzlkZDQ4MTdiMDY3MTU2MWRmOThhZjA0YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/SHjOSDkKZ18qOHA5B5/giphy.gif
-  <img src="" width="100"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTE2NGJkMDZiMTIzMzEzMzlkZDQ4MTdiMDY3MTU2MWRmOThhZjA0YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/SHjOSDkKZ18qOHA5B5/giphy.gif" width="100"/>
 </div>
 
 <h3 align="center">A software engineer student from Italy, living in Vienna, Austria.</h3>
