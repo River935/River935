@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 - :computer: Some of my projects:
-- <a href="[https://www.linkedin.com/in/chiara-m99/](https://river935.github.io/4-in-a-row/)" target="blank">4 in a row</a>
+- <a href="https://www.linkedin.com/in/chiara-m99/" target="blank">4 in a row</a>
 
   
 <h3 align="left">Connect with me:</h3>
