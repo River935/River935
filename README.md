@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hey! I'm Chiara 	:unicorn: </h1>
+<div id="header" align="center">
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTE2NGJkMDZiMTIzMzEzMzlkZDQ4MTdiMDY3MTU2MWRmOThhZjA0YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/SHjOSDkKZ18qOHA5B5/giphy.gif
+  <img src="" width="100"/>
+</div>
+
 <h3 align="center">A software engineer student from Italy, living in Vienna, Austria.</h3>
 
 <p>I am a software engineering student from Italy, deeply driven by a blend of diverse influences and motivations. My enthusiasm for this field is fueled by various sources: my intimate educational experiences in technology, my inquisitive nature, the supportive feedback and inspiration drawn from my circle of friends who are also navigating the tech world, and my innate drive to solve logic problems and innovate with fresh ideas. Even at this early stage of my career, I've had the opportunity to work in multicultural and cross-functional settings, and I am always striving to be data-oriented in my approaches. My ongoing pursuit of knowledge and a deep-seated passion for tech fuel my commitment to becoming an expert in this industry.<p>
