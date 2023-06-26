@@ -48,6 +48,10 @@ Here are some ideas to get you started:
 :spiral_calendar: <a href="https://github.com/River935/Sport_calendar" target="blank">Take a look!</a> and <a href="https://river935.github.io/Sport_calendar/" target="blank">Visit!</a>
 </p>
 
+<p align="center">
+🗺️ <a href="https://github.com/River935/Universities" target="blank">Take a look!</a> and <a href="https://river935.github.io/Universities/" target="blank">Visit!</a>
+</p>
+
 
 
   
