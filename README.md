@@ -52,6 +52,10 @@ Here are some ideas to get you started:
 🗺️ <a href="https://github.com/River935/Universities" target="blank">Take a look!</a> and <a href="https://river935.github.io/Universities/" target="blank">Visit!</a>
 </p>
 
+<p align="center">
+:scroll: <a href="https://github.com/River935/chiara-portfolio" target="blank">Take a look!</a> and <a href="https://river935.github.io/chiara-portfolio/" target="blank">Visit!</a>
+</p>
+
 
 
   
